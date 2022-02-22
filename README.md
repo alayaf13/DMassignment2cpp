@@ -6,7 +6,7 @@ Apriori Algorithm and FP-tree are used to mine frequent itemsets on this dataset
 
 The zip file contains the following files:
 
-(1)LIT2019061.sh
+(1)LIT2019072.sh
 (2)compile.sh
 (3)apriori.cpp
 (4)fptree.cpp
